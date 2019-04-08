@@ -1,5 +1,5 @@
 # vue-vuex
-
+# 组件间传值  父子组件传值 兄弟组件间传值(vuex)
 > vuex
 
 ## Build Setup
