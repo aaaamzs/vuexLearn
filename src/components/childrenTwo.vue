@@ -5,7 +5,7 @@
         <input type="text" v-model="childrenValue">
         <button @click="funChild">传值</button>
         <br>
-        <span>绑定兄弟组件值（vuex）：</span>
+        <span>绑定兄弟组件值(vuex)：</span>
         <input type="text" v-model="$store.state.globalData">
   </div>
 </template>
